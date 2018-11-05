@@ -1,0 +1,11 @@
+D:\Click Site Client Project\cicksite- first project asp core\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+D:\Click Site Client Project\cicksite- first project asp core\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+D:\Click Site Client Project\cicksite- first project asp core\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+D:\Click Site Client Project\cicksite- first project asp core\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+D:\Click Site Client Project\cicksite- first project asp core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Click Site Client Project\cicksite- first project asp core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Click Site Client Project\cicksite- first project asp core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Click Site Client Project\cicksite- first project asp core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+D:\Click Site Client Project\cicksite- first project asp core\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+D:\Click Site Client Project\cicksite- first project asp core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+D:\Click Site Client Project\cicksite- first project asp core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
